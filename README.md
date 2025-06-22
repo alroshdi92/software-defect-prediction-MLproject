@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YOUR_USERNAME/software-defect-prediction.git
+git clone https://github.com/alroshdi92/software-defect-prediction.git
 ```
 
 2. Run the notebook or Python script:
